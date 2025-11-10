@@ -57,7 +57,7 @@ curl -s -H "Authorization: Token $LINKDING_API_KEY" http://localhost:9090/api/bo
 
 # Input and output files
 INPUT="bookmarks.json"
-OUTPUT="bookmarks.md"
+OUTPUT="index.md"
 
 # Write main header
 echo -e "${MSG[header_main]}" > "$OUTPUT"
