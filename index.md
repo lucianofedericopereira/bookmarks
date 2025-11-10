@@ -5,19 +5,19 @@ My personal bookmark list.
 ## Design
 
 - [Base Habitation](https://basehabitation.com/en/) - 
-- [CodePen: Coffee Guide](https://codepen.io/GemmaCroad/pen/WbrWPpB) - 
-- [CodePen: Dot Grid](https://codepen.io/hkfoster/pen/raxgjMz) - 
 - [Codepen](https://codepen.io/cbolson/pen/vELrOPz) - Custom curved corner scrollbars
 - [CodePen](https://codepen.io/finnhvman/pen/pvgaBQo) - Wood Board
 - [Codepen](https://codepen.io/fractalkitty/pen/OPMvoOv) - Odious effect
+- [CodePen](https://codepen.io/GemmaCroad/pen/WbrWPpB) - Coffee Guide
+- [CodePen](https://codepen.io/hkfoster/pen/raxgjMz) - Dot Grid
 - [CodePen](https://codepen.io/paulnoble/pen/gbPGMZZ) - CSS Clock
 - [CodePen](https://codepen.io/Taluska/pen/XJXYRjm) - Analog Clock
+- [CodePen](https://codepen.io/thebabydino/pen/GgoEVJK) - Responsive Grid
 - [CodePen](https://codepen.io/tofjadesign/pen/azdVYzo) - MonoChrome slider
 - [Gentlerain](https://www.gentlerain.ai/) - 
 - [Hut 8](https://www.hut8.com/about-us) - 
 - [kin Creative Studio](https://by-kin.com/journal) - 
 - [Mammoth Murals](https://mammothmurals.com/services) - 
-- [Responsive Grid](https://codepen.io/thebabydino/pen/GgoEVJK) - 
 - [Untold](https://untold.site/en/about) - 
 
 ## Code
@@ -35,14 +35,14 @@ My personal bookmark list.
 
 ## Hardware
 
-- [](https://hyte.com/?zCountry=IT) - 
+- [Hyte](https://hyte.com/?zCountry=IT) - Hardware Cases
 - [Ollee Watch](https://www.olleewatch.com/shop) - Smartwatch modification kits for Casio.
-- [Store– Unreal Keyboards](https://unrealkeyboards.com/collections/store) - Aftermarket Topre Parts
 - [uniball KURU TOGA DIVE](https://www.unibrands.co/products/kuru-toga-dive?variant=42687657115854) - The KURU TOGA DIVE mechanical pencil
+- [Unreal Keyboards](https://unrealkeyboards.com/collections/store) - Aftermarket Topre Parts
 - [URSA keycaps](https://ursa.fkcaps.com/products/classic) - HHKB/Topre keycaps
 - [ViewSonic VG1656N](https://www.viewsonic.com/us/vg1656n.html) - 16" Portable IPS Monitor
 - [YMDK: Split 75% Alps](https://ymdkey.com/products/split-75-nkro-core-alps-matias-silent-switches-magnetic-hand-rests-ergonomics-fully-programmable-macro-mechanical-keyboard) - YMDK: Split 75% NKRO Core Alps Matias Silent Switches Magnetic Hand Rests
-- [YouYeeToo](https://www.youyeetoo.com/) - 
+- [YouYeeToo](https://www.youyeetoo.com/) - IoT Hardware
 
 ## Analog & Retro
 
@@ -53,4 +53,4 @@ My personal bookmark list.
 - [Xiaomi](https://www.mi.com/it/product/xiaomi-water-flosser-2/) - Xiaomi Water Flosser 2: Tecnologia a impulsi d'acqua ad alta frequenza, Entra in profondità negli spazi tra i denti e pulisce l'intera bocca, 3 modalità di pulizia
 
 ---
-_Last updated: 2025-11-10 22:47:44 • Total bookmarks: 33_
+_Last updated: 2025-11-10 22:54:20 • Total bookmarks: 33_
