@@ -33,7 +33,7 @@ declare -A MSG=(
   [downloading]="Downloading bookmarks..."
   [done]="README.md successfully generated with sorted categories."
   [header_main]="# My Bookmarks\n\nMy personal bookmark list.\n"
-  [footer]="_Last updated: %s • Total bookmarks: %s _\n"
+  [footer]="_Last updated: %s • Total bookmarks: %s_\n"
   [exported]="Exported: %s bookmark(s)"
 )
 
