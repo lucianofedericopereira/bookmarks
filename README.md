@@ -22,6 +22,8 @@ Self-hosting isn’t just about independence; it’s about **digital resilience*
 
 In addition to managing bookmarks privately, I like to **share curated resources publicly**. By exporting my bookmarks to a Markdown file using the Linkding API, I can push that file directly to **GitHub**, **GitLab**, or any static site generator.
 
+[My Shared Bookmarks](/bookmarks/data/bookmarks.md)
+
 This simple workflow turns a private bookmark collection into a **public knowledge resource** — a living, version-controlled list of tools, tutorials, and inspiration. Hosting the list on GitHub also makes it easy for others to discover new links, suggest additions via pull requests, or even fork the list for their own use.
 
 Essentially, this setup transforms what used to be a personal browser feature into a **shareable knowledge hub** powered by open-source tools and automation.
