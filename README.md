@@ -3,6 +3,8 @@
 
 Managing personal bookmarks efficiently is essential for maintaining a clean and organized workflow, especially when working across multiple devices or projects. To achieve this, I use **Linkding**, a self-hosted bookmark manager, running inside a **Podman** container. This setup provides a lightweight, secure, and containerized way to manage and export my bookmarks.
 
+### [My Bookmarks](https://lucianofedericopereira.github.io/bookmarks/)
+
 ---
 
 ## Why Self-Hosting Matters
@@ -21,8 +23,6 @@ Self-hosting isn’t just about independence; it’s about **digital resilience*
 ## Publishing My List
 
 In addition to managing bookmarks privately, I like to **share curated resources publicly**. By exporting my bookmarks to a Markdown file using the Linkding API, I can push that file directly to **GitHub**, **GitLab**, or any static site generator.
-
-[My Shared Bookmarks](data/)
 
 This simple workflow turns a private bookmark collection into a **public knowledge resource** — a living, version-controlled list of tools, tutorials, and inspiration. Hosting the list on GitHub also makes it easy for others to discover new links, suggest additions via pull requests, or even fork the list for their own use.
 
